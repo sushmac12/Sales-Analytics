@@ -1,25 +1,25 @@
 # Sales-Analytics
 
 **Project objective ** :
-==> Empower businesses to monitor and evaluate their sales activities and performance.
-==> Conduct a comprehensive comparison between Market performance and Sales targets.
-==>  Identify sales patterns and track key performance indicators (KPIs).
-==> Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-==> Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-==>  Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-==>  Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- [x] Empower businesses to monitor and evaluate their sales activities and performance.
+- [x] Conduct a comprehensive comparison between Market performance and Sales targets.[ https://github.com/sushmac12/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
+- [x]  Identify sales patterns and track key performance indicators (KPIs).
+- [x] Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- [x] Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- [x]  Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- [x]  Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 **Finance Report ** : 
-    * Create Profit and Loss (P&L) reports by Fiscal_Year.
-    * Create Profit and Loss (P&L) reports by Markets.
+    * Create Profit and Loss (P&L) reports by Fiscal_Year. [ https://github.com/sushmac12/Sales-Analytics/blob/main/P%20%26%20L%20by%20Year%20Report.pdf ]
+    * Create Profit and Loss (P&L) reports by Markets. [ https://github.com/sushmac12/Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf ]
     
  ## Technical & Soft Skills:
-==>	Proficiency in ETL methodology (Extract, Transform, Load).
-==>	Skills to generate a date table using Power Query.
-==>	Ability to derive fiscal months and quarters.
-==>	Establishing data model relationships with Power Pivot.
-==>	Proficiency in incorporating supplementary data into an existing data model.
-==>	Utilizing DAX to create calculated columns.
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
